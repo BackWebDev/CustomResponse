@@ -1,10 +1,5 @@
 <?php
 
-/**
- * Created by Vlad.
- * User: vlad
- */
-
 namespace App\Http\Controllers;
 
 use Illuminate\Http\Request;
